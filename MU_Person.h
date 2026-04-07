@@ -4,7 +4,7 @@ class MU_person:public NODE{
 private: 
   /*long id;
 	string name;*/
-protected://ถ้าแปะใน protected ลูก(student)จะเข้าถึงได้
+protected:
   long id;
 	string name;
 
